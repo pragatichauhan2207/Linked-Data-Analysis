@@ -181,7 +181,7 @@ pip install pandas matplotlib
 
 ---
 
-## 💡 Use Cases
+##  Use Cases
 
 - Social Network Analysis  
 - Placement Insights  
